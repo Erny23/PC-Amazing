@@ -63,3 +63,161 @@ nav .show.dropdown .dropdown-toggle.btn.show {
 nav .dropdown .dropdown-toggle.btn:hover {
   color: white;
 }
+
+.migajasDePan {
+  background-color: rgb(226, 225, 225);
+  box-shadow: 0px -25px 50px 0px black;
+}
+
+.migajasDePan a{
+  text-decoration: none;
+  color: rgb(33,37,41,0.75);
+}
+
+/*Inicio MainIni*/
+.categorias1 .Container {
+  padding: 0 15px;
+}
+
+.listCat {
+  list-style: none;
+  display: flex;
+}
+
+.contentCat {
+  position: relative;
+  display: block;
+  color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.Image {
+  display: block;
+  border-radius: 15px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.Image:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-top: 30%;
+  background: url(../public/img/Sombra-case-gaming.png);
+  background: -moz-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+  background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+  background: -ms-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+  background: linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+  z-index: 2;
+  border-radius: 0 0 15px 15px;
+  opacity: .8;
+}
+
+.Image img {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  z-index: 1;
+  transition: .2s;
+  transform: scale(1);
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+
+.contentCat:hover img {
+  transform: scale(1.2);
+  opacity: .7;
+}
+
+.capi {
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 10px;
+  bottom: 30px;
+  z-index: 3;
+  line-height: 16px;
+  background-color: #28A494;
+  border-radius: 32px;
+  padding: 0 8px;
+  margin-bottom: 3px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  right: 10px;
+  z-index: 3;
+}
+
+#carruselContainer {
+  /*padding-top: 2rem;*/
+  /*padding-bottom: 2rem;*/
+  background: url(Fondo-textura.png) #05152F;
+  background-size: contain;
+  background-position: center;
+}
+
+#carruselProduct {
+  overflow-x: scroll;
+}
+
+#carruselProduct::-webkit-scrollbar {
+width: 0px;
+height: 10px;
+}
+
+.carruselItems {
+  display: inline-block;
+  width: 320px;
+  height: auto;
+  border-radius: 5px;
+  transition: 0.9s;
+  transform: scale(0.9);
+  -webkit-transform: scale(0.9);
+  -moz-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  -o-transform: scale(0.9);
+  -webkit-transition: 0.9s;
+  -moz-transition: 0.9s;
+  -ms-transition: 0.9s;
+  -o-transition: 0.9s;
+}
+
+.carruselItems:hover {
+  transition: 0.9s;
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  -webkit-transition: 0.9s;
+  -moz-transition: 0.9s;
+  -ms-transition: 0.9s;
+  -o-transition: 0.9s;
+}
+
+.carruselItems a {
+  text-decoration: none;
+}
+
+.carruselItems img {
+  width: 100%;
+  height: 100%;
+}
+
+.carruselItems .card {
+  background: rgb(247, 247, 247);
+}
+/*Fin MainIni*/
