@@ -91,7 +91,7 @@ const MainIni = () => {
                         <div className="carruselItems col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 m-1">
                             <a href="#">
                             <div className="card h-100">
-                                <img className="card-img-top p-1" src="../public/producto/imagen1.JPG" alt=""/>
+                                <img className="card-img-top p-1" src="imagen1.JPG" alt=""/>
                                 <div className="card-body">
                                     <h4 className="card-title">Geforce RTX 3090</h4>
                                     <p className="card-text">Zotac</p>
@@ -102,7 +102,7 @@ const MainIni = () => {
                         <div className="carruselItems col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 m-1">
                             <a href="#">
                             <div className="card h-100">
-                                <img className="card-img-top p-1" src="../public/producto/imagen2.JPG" alt=""/>
+                                <img className="card-img-top p-1" src="imagen2.JPG" alt=""/>
                                 <div className="card-body">
                                     <h4 className="card-title">450w Bronce No Modular</h4>
                                     <p className="card-text">EVGA</p>
@@ -113,7 +113,7 @@ const MainIni = () => {
                         <div className="carruselItems col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 m-1">
                             <a href="#">
                             <div className="card h-100">
-                                <img className="card-img-top p-1" src="../public/producto/imagen3.JPG" alt=""/>
+                                <img className="card-img-top p-1" src="imagen3.JPG" alt=""/>
                                 <div className="card-body">
                                     <h4 className="card-title">RTX Geforce 2060</h4>
                                     <p className="card-text">MSI</p>
@@ -124,7 +124,7 @@ const MainIni = () => {
                         <div className="carruselItems col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 m-1">
                             <a href="#">
                             <div className="card h-100">
-                                <img className="card-img-top p-1" src="../public/producto/imagen4.JPG" alt=""/>
+                                <img className="card-img-top p-1" src="imagen4.JPG" alt=""/>
                                 <div className="card-body">
                                     <h4 className="card-title">Supernova 1600w Titanum</h4>
                                     <p className="card-text">EVGA</p>
@@ -135,7 +135,7 @@ const MainIni = () => {
                         <div className="carruselItems col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 m-1">
                             <a href="#">
                             <div className="card h-100">
-                                <img className="card-img-top p-1" src="../public/producto/imagen5.JPG" alt=""/>
+                                <img className="card-img-top p-1" src="imagen5.JPG" alt=""/>
                                 <div className="card-body">
                                     <h4 className="card-title">RTX Geforce 3070 TUF GAMING OC</h4>
                                     <p className="card-text">ASUS</p>
@@ -146,7 +146,7 @@ const MainIni = () => {
                         <div className="carruselItems col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 m-1">
                             <a href="#">
                             <div className="card h-100">
-                                <img className="card-img-top p-1" src="../public/producto/imagen6.JPG" alt=""/>
+                                <img className="card-img-top p-1" src="imagen6.JPG" alt=""/>
                                 <div className="card-body">
                                     <h4 className="card-title">AMD Ryzen 5 5600</h4>
                                     <p className="card-text">AMD</p>
@@ -157,7 +157,7 @@ const MainIni = () => {
                         <div className="carruselItems col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 m-1">
                             <a href="#">
                             <div className="card h-100">
-                                <img className="card-img-top p-1" src="../public/producto/imagen7.JPG" alt=""/>
+                                <img className="card-img-top p-1" src="imagen7.JPG" alt=""/>
                                 <div className="card-body">
                                     <h4 className="card-title">Case ATX Gaming</h4>
                                     <p className="card-text">Lian Li</p>

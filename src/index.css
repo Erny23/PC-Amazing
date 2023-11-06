@@ -74,6 +74,17 @@ nav .dropdown .dropdown-toggle.btn:hover {
   color: rgb(33,37,41,0.75);
 }
 
+/*Inicio Footer*/
+footer {
+    color: white;
+}
+
+footer #firma {
+    border-top: solid;
+    border-width: thin;
+}
+/*Fin Footer*/
+
 /*Inicio MainIni*/
 .categorias1 .Container {
   padding: 0 15px;
