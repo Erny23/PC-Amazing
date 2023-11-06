@@ -20,10 +20,10 @@ const Header = () => {
                                     <Link to={'/PC-Amazing'} className="nav-link" aria-current='page' href="#">Inicio</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link to={'/Productos'} className="nav-link" href="#">Productos</Link>
+                                    <Link to={'/PC-Amazing/Productos'} className="nav-link" href="#">Productos</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link to={'/Servicios'} className="nav-link" href="#">Servicios</Link>
+                                    <Link to={'/PC-Amazing/Servicios'} className="nav-link" href="#">Servicios</Link>
                                 </li>
                                 <Dropdown>
                                     <Dropdown.Toggle variant="" id="dropdown-basic">
@@ -36,7 +36,7 @@ const Header = () => {
                                     </Dropdown.Menu>
                                 </Dropdown>
                                 <li className="nav-item">
-                                    <Link to={'/Contactos'} className="nav-link" href="#">Contactos</Link>
+                                    <Link to={'/PC-Amazing/Contactos'} className="nav-link" href="#">Contactos</Link>
                                 </li>
                             </ul>
                             <form className="d-flex" role="search" id="buscador">
