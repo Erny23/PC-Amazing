@@ -4,31 +4,32 @@ Este proyecto es un e-commerce básico para una marca ficticia de venta de compo
 
 El proyecto está hecho con React, HTML, CSS, JavaScript y Bootstrap. Se utilizan las dependencias react-router-dom para la navegación y React-Bootstrap para el diseño.
 
-Requisitos:
+**Requisitos:**
 
 Node.js 16.x o superior
 NPM 8.x o superior
 
-Instalación:
+**Instalación:**
 
 Clonar el repositorio:
 
-git clone [https://github.com/Erny23/PC-Amazing.git]
+_git clone <u>https://github.com/Erny23/PC-Amazing.git</u>_
 
-Instalar las dependencias:
+**Instalar las dependencias:**
 
-npm install react-router-dom
-npm install react-bootstrap bootstrap
+_npm install react-router-dom_
 
-Ejecución:
+_npm install react-bootstrap bootstrap_
 
-Iniciar el servidor:
+**Ejecución:**
 
-npx vite
+**Iniciar el servidor:**
 
-El sitio se abrirá en el navegador predeterminado en la dirección [http://localhost:4000].
+_npx vite_
 
-Características:
+El sitio se abrirá en el navegador predeterminado en la dirección <u>http://localhost:4000</u>.
+
+**Características:**
 
 Navegación sencilla por categorías y productos.
 Visualización de productos con imágenes, descripción y precio.
@@ -36,8 +37,8 @@ Carrito de compras con posibilidad de agregar, eliminar y actualizar productos.
 Formulario de contacto.
 Enlaces:
 
-Documentación: [https://github.com/Erny23/PC-Amazing/blob/main/README.md]
-Código fuente: [https://github.com/Erny23/PC-Amazing]
+Documentación: <u>https://github.com/Erny23/PC-Amazing/blob/main/README.md</u>
+Código fuente: <u>https://github.com/Erny23/PC-Amazing</u>
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) usa [Babel](https://babeljs.io/) para una actualización rápida
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) usa [SWC](https://swc.rs/) para una actualización rápida
