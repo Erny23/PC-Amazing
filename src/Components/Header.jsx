@@ -1,12 +1,24 @@
 import { Link } from "react-router-dom";
 import { Dropdown } from "react-bootstrap";
+//import { useState } from "react"
+import productos from '../Data/productos.json'
+
+const productosJson = productos;
+const categoriasList = new Set();
+
+productosJson.forEach((productosList) => {
+    categoriasList.add(productosList.categoria);
+});
+
+const categorias = [...categoriasList];
 
 const Header = () => {
+
   return (
     <>
         <header>
             <section>
-                <nav className="navbar navbar-expand-md" data-bs-theme='dark' style={{background:'#05152F'}}>
+                <nav className="navbar navbar-expand-lg" data-bs-theme='dark' style={{background:'#05152F'}}>
                     <div className="container-fluid">
                         <Link to={'/PC-Amazing'} className="navbar-brand" href="#">
                             <img src="Logo PC Amazing.png" alt="Logo" style={{width:'230px'}}/>
@@ -30,9 +42,9 @@ const Header = () => {
                                         Categorias
                                     </Dropdown.Toggle>
                                     <Dropdown.Menu>
-                                        <Dropdown.Item href="#">Action</Dropdown.Item>
-                                        <Dropdown.Item href="#">Another action</Dropdown.Item>
-                                        <Dropdown.Item href="#">Something else</Dropdown.Item>
+                                        {categorias.map((categoria) => (
+                                            <Dropdown.Item href="#" key={categoria.id}>{categoria}</Dropdown.Item>
+                                        ))}
                                     </Dropdown.Menu>
                                 </Dropdown>
                                 <li className="nav-item">

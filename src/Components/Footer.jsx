@@ -30,7 +30,7 @@ const Footer = () => {
                 <br/>
                 <div className="d-flex justify-content-center">
                     <a href="#">
-                        <img src="../public/img/Logo PC Amazing.png" alt="" style={{width:"250px"}}/>
+                        <img src="Logo PC Amazing.png" alt="" style={{width:"250px"}}/>
                     </a>
                 </div>
                 <br/>

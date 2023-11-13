@@ -1,0 +1,523 @@
+    
+    [
+        {
+            "id":1,
+            "titulo":"AMD Ryzen™ 7 5700G - Procesador de escritorio desbloqueado",
+            "imagen":"imagen11.JPG",
+            "descripcion":[
+                [
+                    "Juega algunos de los juegos más populares a 1080p con los gráficos del procesador más rápidos del mundo, no requiere tarjeta gráfica"
+                ],
+                [
+                    "8 núcleos y 16 hilos de procesamiento, incluidos con el enfriador AMD Wraith Stealth"
+                ],
+                [
+                    "Aumento máximo de 4.6 GHz, desbloqueado para overclocing, caché de 20 MB, soporte DDR4-3200"
+                ],
+                [
+                    "Para la avanzada plataforma Socket AM4. Temperatura máxima de funcionamiento (Tjmax)-139.0 °F"
+                ]
+            ],
+            "marca":"AMD",
+            "modelo":"Ryzen 7 5700G",
+            "cat_id": [1],
+            "categoria":"Procesadores",
+            "velocidad":"4,6 GHz",
+            "nucleos":"8",
+            "hilos":"16",
+            "socket":"AM4",
+            "graficosIntegrados":"si",
+            "overclocking":"desbloqueado"
+        },
+        {
+            "id":2,
+            "titulo":"AMD Ryzen™ 9 5900X - Procesador de escritorio desbloqueado",
+            "imagen":"imagen12.JPG",
+            "descripcion":[
+                [
+                    "El mejor procesador de escritorio para juegos del mundo, con 12 núcleos y 24 hilos de procesamientoJuega algunos de los juegos más populares a 1080p con los gráficos del procesador más rápidos del mundo, no requiere tarjeta gráfica"
+                ],
+                [
+                    "Puede ofrecer un rendimiento de élite más de 100 FPS en los juegos más populares del mundo"
+                ],
+                [
+                    "Enfriador no incluido, enfriador de alto rendimiento. Temperatura máxima: 194.0 °F"
+                ],
+                [
+                    "Aumento máximo de 4.8 GHz, desbloqueado para overclocking, 70 MB de caché, soporte DDR-3200"
+                ],
+                [
+                    "Para la avanzada plataforma Socket AM4, puede soportar PCIe 4.0 en placas base X570 y B550"
+                ]
+            ],
+            "marca":"AMD",
+            "modelo":"Ryzen 9 5900X",
+            "cat_id": [1],
+            "categoria":"Procesadores",
+            "velocidad":"4,8 GHz",
+            "nucleos":"12",
+            "hilos":"24",
+            "socket":"AM4",
+            "graficosIntegrados":"no",
+            "overclocking":"desbloqueado"
+        },
+        {
+            "id":3,
+            "titulo":"AMD Ryzen™ 5 5600X - procesador de escritorio desbloqueados",
+            "imagen":"imagen6.JPG",
+            "descripcion":[
+                [
+                    "Procesador de 6 núcleos más rápido de AMD para escritorio principal, con 12 hilos de procesamiento"
+                ],
+                [
+                    "Puede ofrecer un rendimiento de élite de 100 + FPS en los juegos más populares del mundo"
+                ],
+                [
+                    "Incluye el enfriador silencioso y capaz AMD Wraith Stealth"
+                ],
+                [
+                    "4.6 GHz Max Boost, desbloqueado para overclock, 35 MB de caché, soporte DDR-3200"
+                ],
+                [
+                    "Para la plataforma de enchufe avanzada AM4, puede soportar PCIe 4.0 en placas base X570 y B550"
+                ]
+            ],
+            "marca":"AMD",
+            "modelo":"Ryzen 5 5600X",
+            "cat_id": [1],
+            "categoria":"Procesadores",
+            "velocidad":"4,6 GHz",
+            "nucleos":"6",
+            "hilos":"12",
+            "socket":"AM4",
+            "graficosIntegrados":"no",
+            "overclocking":"desbloqueado"
+        },
+        {
+            "id":4,
+            "titulo":"AMD Ryzen™ 9 7900X - Procesador de escritorio desbloqueado",
+            "imagen":"imagen9.JPG",
+            "descripcion":[
+                [
+                    "El procesador es versátil, confiable y ofrece un uso conveniente con alta velocidad"
+                ],
+                [
+                    "Procesador de línea de productos Ryzen 9 para su comodidad y uso óptimo"
+                ],
+                [
+                    "Tecnología de proceso de 5 nm para un rendimiento fiable con la máxima productividad"
+                ],
+                [
+                    "El núcleo del procesador Dodeca-core (12 Core) permite realizar múltiples tareas con gran fiabilidad y velocidad de procesamiento rápida"
+                ],
+                [
+                    "La memoria caché L2 de 12 MB + 64 MB L3 proporciona una excelente tasa de aciertos en tiempo de acceso corto, lo que permite un mejor rendimiento del sistema"
+                ],
+                [
+                    "Procesador con velocidad de reloj de 4,70 GHz para una ejecución más rápida y eficiente de ciclos por segundo para garantizar la máxima usabilidad"
+                ],
+                [
+                    "Viene con controlador de gráficos AMD Radeon para una impresionante calidad de imagen"
+                ]
+            ],
+            "marca":"AMD",
+            "modelo":"Ryzen 9 7900X",
+            "cat_id": [1],
+            "categoria":"Procesadores",
+            "velocidad":"4,7 GHz",
+            "nucleos":"12",
+            "hilos":"24",
+            "socket":"AM5",
+            "graficosIntegrados":"si",
+            "overclocking":"desbloqueado"
+        },
+        {
+            "id":5,
+            "titulo":"Lian Li - Case O11 Dynamic para computadora de videojuegos, Blanco",
+            "imagen":"imagen7.JPG",
+            "descripcion":[
+                [
+                    "Tipo de caja ATX Full Tower"
+                ],
+                [
+                    "Cristal templado frontal + aluminio"
+                ],
+                [
+                    "Cristal templado lateral"
+                ],
+                [
+                    "M/B Tipo EEB (35 2.0 in x 35 2.0 in) / ATX/ Micro-ATX"
+                ],
+                [
+                    "Disco duro interno de 4 x 3 5 pulgadas (intercambio en caliente) 11 x 2 5 pulgadas SSD"
+                ]
+            ],
+            "marca":"Lian Li",
+            "modelo":"O11 Dynamic",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "ATX"
+                ],
+                [
+                    "Micro-ATX"
+                ]
+            ],
+            "color":"blanco",
+            "cristalLateral":"si",
+            "cristalFrontal":"si"
+        },
+        {
+            "id":6,
+            "titulo":"Thermaltake DistroCase 350P PC-Chassis / Modding Case",
+            "imagen":"imagen13.JPG",
+            "descripcion":[
+                [
+                    "El DistroCase 350P cuenta con un panel de vidrio templado de 0.197 in de grosor que está diseñado para cumplir con los más altos estándares de la industria."
+                ],
+                [
+                    "Las ventanas de vidrio ampliadas permiten a los usuarios mostrar completamente todos los componentes RGB del sistema, y mostrar su dedicación y conjuntos de habilidades."
+                ],
+                [
+                    "Las ranuras PCI-E rotativas le dan la opción de mostrar su tarjeta gráfica vertical u horizontalmente, creando un montón de espacio flexible en su sistema"
+                ],
+                [
+                    "El chasis de torre media DistroCase 350P puede admitir hasta una placa base ATX, un enfriador de CPU con una altura máxima de 5.118 in, colocación VGA bidireccional de hasta 12.598 in (con depósito y radiador instalados), una fuente de alimentación con una longitud de hasta 7.874 in y hasta dos discos duros de 3,5 o seis discos duros de 2,5"
+                ],
+                [
+                    "Dos USB 3.0 y dos USB 2.0 en la parte superior para otorgar acceso directo cuando sea necesario"
+                ]
+            ],
+            "marca":"Thermaltake",
+            "modelo":"DistroCase 350P",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "ATX"
+                ]
+            ],
+            "color":"negro",
+            "cristalLateral":"si",
+            "cristalFrontal":"no"
+        },
+        {
+            "id":7,
+            "titulo":"Silverstone SST-LD03B Lucid Mini Tower Mini-ITX - Carcasa para computadora tintado X3",
+            "imagen":"imagen14.JPG",
+            "descripcion":[
+                [
+                    "Paneles de vidrio templado tintado para un estilo reservado o expresivo"
+                ],
+                [
+                    "Diseño de huella súper mini sin cables y rejillas de ventilación en los cuatro lados para una excelente integración en cualquier entorno informático"
+                ],
+                [
+                    "Incluye dos ventiladores de 4.724 in para un excelente flujo de aire y soporta hasta dos radiadores de 4.724 in"
+                ],
+                [
+                    "Admite 2 unidades de 5 y 3 5 y placa base Mini-DTX/Mini-ITX y compatible con PSU SFX/SFX-L"
+                ],
+                [
+                    "Soporta enfriador de CPU de tamaño completo y tarjetas gráficas"
+                ]
+            ],
+            "marca":"SilverStone Technology",
+            "modelo":"SST-LD03B",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "Mini-ITX"
+                ]
+            ],
+            "color":"negro",
+            "cristalLateral":"no",
+            "cristalFrontal":"si"
+        },
+        {
+            "id":8,
+            "titulo":"Zalman Z-Machine 500 - Funda para computadora E-ATX de aire abierto",
+            "imagen":"imagen15.JPG",
+            "descripcion":[
+                [
+                    "Alta gama todo: vidrio templado de 0.197 in de grosor con ángulos cuidadosamente cortados que encajan perfectamente en el chasis de aluminio tratado con aluminio. Vidrio templado curvado hecho a medida para los paneles delanteros y superiores."
+                ],
+                [
+                    "Ventiladores y controlador ARGB: incluye (5) ventiladores RGB direccionables premium de 4.724 in (SF120) y controlador Zalman Z-SYNC RGB. Sistema de gestión de cables integrado para mantener los cables ordenados."
+                ],
+                [
+                    "Gran espacio interior: el exclusivo chasis de marco abierto se presta bien a los sistemas de refrigeración líquida de bricolaje, con amplio espacio interior para bombas y depósitos para posibilidades de construcción ilimitadas. Dimensiones: 11.024 in (ancho) x 24.803 in (profundidad) x 23.701 in (alto)."
+                ],
+                [
+                    "Compatible con la mayoría de placas base incluyendo E-ATX, ATX, mATX, ITX placas base de hasta 11.024 in de ancho. El panel frontal soporta radiadores de hasta 14.173 in, la parte superior soporta radiadores de hasta 11.024 in. VGA máxima: 15.748 in, altura máxima del enfriador: 8.268 in, longitud máxima de la fuente de alimentación: 7.874 in"
+                ],
+                [
+                    "Bahías y puertos: puertos I/O de corte de diamante de precisión incluidos USB 2.0 (x2), USB 3.0 (x2), USB 3.1 tipo C, micrófono y puertos de auriculares"
+                ]
+            ],
+            "marca":"Zalman",
+            "modelo":"Z-Machine 500",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "E-ATX"
+                ]
+            ],
+            "color":"negro",
+            "cristalLateral":"si",
+            "cristalFrontal":"si"
+        },
+        {
+            "id":9,
+            "titulo":"LIQIANG Case de juegos de PC torre completa, soporte para computadora de pared",
+            "imagen":"imagen16.JPG",
+            "descripcion":[
+                [
+                    "Funda para juegos: un chasis abierto altamente personalizable proporciona un alto grado de flexibilidad de instalación, soporta múltiples modos, y puede transformar y transformar libremente entre el chasis abierto vertical y la plataforma de prueba."
+                ],
+                [
+                    "Cristal templado panorámico: equipado con cristal templado panorámico, proporciona un excelente ángulo visual para el sistema y puede mostrar todo el sistema desde un mejor ángulo."
+                ],
+                [
+                    "Soporte de pared VESA: compatible con montaje de pared VESA de 3.937 in x 3.937 in, muestra tu refrigeración en agua abierta y varias configuraciones de hardware de alta gama de una manera de alto perfil."
+                ],
+                [
+                    "Eje móvil de alta calidad: las alas en ambos lados se fijan en la placa principal a través del eje que puede soportar un peso pesado. Utiliza una llave hexagonal para aflojar el tornillo en un extremo del eje para ajustar el ángulo de la placa de ala fija a voluntad."
+                ],
+                [
+                    "Compatible con placas base de tamaño completo: soporta placas base de tamaño completo hasta SSI-EEB, explora todo el rendimiento del mundo de la PC."
+                ]
+            ],
+            "marca":"LIQIANG",
+            "modelo":"LIQIANG",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "SSI EEB"
+                ]
+            ],
+            "color":"negro",
+            "cristalLateral":"no",
+            "cristalFrontal":"no"
+        },
+        {
+            "id":10,
+            "titulo":"hanzeni ATX Chasis PC Gaming Case",
+            "imagen":"imagen17.JPG",
+            "descripcion":[
+                [
+                    "Paneles de vidrio templado: los anteojos gruesos translúcidos muestran tu vista panorámica única integrada para nivelar la experiencia de juego de los usuarios."
+                ],
+                [
+                    "Potente sistema de refrigeración: la carcasa del ordenador se puede instalar con 10 ventiladores LED de anillo de luz RGB; el diseño abierto puede mantener la GPU continuamente baja, haciendo que tu computadora funcione más suavemente."
+                ],
+                [
+                    "Excelente gestión de cables: un espacio detrás de la bandeja de la placa base para la gestión de cables ocultos, te ayudará a limpiar el interior y mejorar el flujo de aire. Filtros de polvo extraíbles en la parte superior e inferior de la caja de juegos de escritorio para una limpieza rápida y cómoda."
+                ],
+                [
+                    "Una cubierta de PSU de longitud completa oculta tu PSU y cables fuera de la vista, haciendo inmaculadas construcciones más fáciles de crear que nunca."
+                ],
+                [
+                    "Panel superior I/O: 1 puerto USB 3.0, 2 puertos USB 2.0, 1 termómetro, 1 audio HD, botón de encendido."
+                ]
+            ],
+            "marca":"hanzeni",
+            "modelo":"hanzeni",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "E-ATX"
+                ]
+            ],
+            "color":"negro",
+            "cristalLateral":"si",
+            "cristalFrontal":"no"
+        },
+        {
+            "id":11,
+            "titulo":"JONSBO D41 MESH SC - Carcasa para computadora",
+            "imagen":"imagen18.JPG",
+            "descripcion":[
+                [
+                    "Nota: Si la pantalla tiene problemas de compatibilidad durante la instalación, ponte en contacto con el servicio de atención al cliente para obtener soluciones. (El software AIDA64 debe ser comprado por los usuarios)"
+                ],
+                [
+                    "D41 Pine Cone Series-Mesh Screen ATX PC Case ,Computer Case Size: H407*W205*D452mm"
+                ],
+                [
+                    "Placa base: placa base ATX/MATX"
+                ],
+                [
+                    "Enfriador de aire: 6.614 in de alto orden. [Compatible con AIO]: 360/280/240 (superior) 360/240 (inferior)"
+                ],
+                [
+                    "GPU: 13.189-15.748 in [PSU]: ATX/SFX: 3.937-8.661 in L máx"
+                ]
+            ],
+            "marca":"JONSBO",
+            "modelo":"D41 MESH SC",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "ATX"
+                ]
+            ],
+            "color":"negro",
+            "cristalLateral":"si",
+            "cristalFrontal":"no"
+        },
+        {
+            "id":12,
+            "titulo":"NZXT H9 Elite CM-H91EW-01 - Carcasa para juegos de PC de doble cámara",
+            "imagen":"imagen19.JPG",
+            "descripcion":[
+                [
+                    "VISIÓN CLARA: El vidrio sin costuras en los paneles frontal y lateral le da a su construcción la atención indivisa que merece. El panel superior de vidrio con un soporte de radiador transparente añade aún más a la estética del vidrio."
+                ],
+                [
+                    "Iluminación RGB integrada: incluye tres ventiladores RGB de 4.724 in de doble cara con un controlador RGB y ventilador para iluminación y refrigeración personalizadas."
+                ],
+                [
+                    "Diseño de doble cámara: los cables, el almacenamiento y la fuente de alimentación están separados de otros componentes para mantener un aspecto limpio y maximizar el flujo de aire a la GPU."
+                ],
+                [
+                    "EDIFICIO SIMPLIFICADO: Amplio interior con gestión intuitiva de cables, un panel de pared SSD dedicado y soportes de montaje superiores y laterales extraíbles."
+                ],
+                [
+                    "ENORMADAMENTE FRESCO: Soporta radiadores de hasta 14.173 in en los paneles superior, lateral e inferior. Se adapta a ventiladores de hasta 0.394 x 4.724 in, o 6 ventiladores de 5.512 in más 1 ventilador de 4.724 in."
+                ]
+            ],
+            "marca":"NZXT",
+            "modelo":"H9 Elite CM-H91EW-01",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "ATX"
+                ]
+            ],
+            "color":"blanco",
+            "cristalLateral":"si",
+            "cristalFrontal":"si"
+        },
+        {
+            "id":13,
+            "titulo":"MUSETEX Carcasa ATX para PC",
+            "imagen":"imagen20.JPG",
+            "descripcion":[
+                [
+                    "Esta funda adopta un diseño sin tornillos de alto costo, y el lado adopta una puerta magnética, que es más conveniente de montar que otras fundas que necesitan quitar tornillos, y puedes abrir la puerta de vidrio en cualquier momento para poner la figura."
+                ],
+                [
+                    "6 ventiladores PWM ARGB de alto costo preinstalados: carcasa G07 ATX equipada con 6 ventiladores PWM ARGB."
+                ],
+                [
+                    "Maravíllate con la perfecta integración de tu hermosa GPU, placa base y sistema de refrigeración líquida. Y el vidrio templado es resistente y no es fácil de romper, lo que te permite disfrutar de la tranquilidad que aporta la durabilidad y seguridad del vidrio templado."
+                ],
+                [
+                    "Con espacio para 4 unidades de almacenamiento, tendrá la libertad de almacenar todos sus juegos, aplicaciones y archivos multimedia sin compromiso. Puede soportar ATX/Micro ATX/Mini ITX. El radiador de 240/11.024 in se puede instalar en la parte superior de la caja. Se pueden instalar hasta 8 ventiladores."
+                ],
+                [
+                    "Panel IO simple e inteligente: carcasa de computadora G07 con dos puertos USB 3.0 para una fácil expansión y velocidades de transferencia más rápidas, proporciona conectividad perfecta y acceso conveniente a sus periféricos esenciales."
+                ]
+            ],
+            "marca":"MUSETEX",
+            "modelo":"G07NEW",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "ATX"
+                ]
+            ],
+            "color":"negro",
+            "cristalLateral":"si",
+            "cristalFrontal":"si"
+        },
+        {
+            "id":14,
+            "titulo":"Segotep Slath Mini ITX - Carcasa para computadora de juegos de PC",
+            "imagen":"imagen21.JPG",
+            "descripcion":[
+                [
+                    "Panel de vidrio templado curvado doble, campo de visión sin bordes IMAX, tarjeta gráfica se puede ver en tres lados."
+                ],
+                [
+                    "Diseñado para tarjeta gráfica MINI ITX, la longitud máxima de la GPU es de 7.874 in."
+                ],
+                [
+                    "Admite placa base Mini ITX, PSU SFX y radiador de 9.449 in."
+                ],
+                [
+                    "Diseño de enfriamiento de alta eficiencia, ventilador de enfriamiento inverso de 0.079 x 4.724 in que se instaló en la parte inferior de la caja, refrigeración por agua de 9.449 in apoyada en la parte trasera y orificios de enfriamiento especiales de la fuente de alimentación."
+                ],
+                [
+                    "Gran gestión de cables, diseño de cables ocultos en la parte superior, red magnética lavable a prueba de polvo."
+                ]
+            ],
+            "marca":"Segotep",
+            "modelo":"Slath",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "Mini ITX"
+                ]
+            ],
+            "color":"plateado",
+            "cristalLateral":"no",
+            "cristalFrontal":"si"
+        },
+        {
+            "id":15,
+            "titulo":"ALSEYE Ai-Pro - Carcasa para juegos de PC",
+            "imagen":"imagen22.JPG",
+            "descripcion":[
+                [
+                    "La funda para PC gaming Ai Pro contiene un panel frontal ARGB que soporta la sincronización con todos tus otros dispositivos ARGB dentro de la carcasa."
+                ],
+                [
+                    "Uno incluía un ventilador RGB direccionable Halo-Pro en la parte posterior de la carcasa para construir con iluminación mientras proporciona un flujo de aire de escape considerable."
+                ],
+                [
+                    "Los paneles laterales de vidrio templado proporcionan la visión perfecta de tu hermosa carcasa de construcción de PC DIY en el interior."
+                ],
+                [
+                    "La carcasa de computadora Ai Pro soporta hasta 2 radiadores de 360 y un máximo de 7 ventiladores. Ofrece 2 unidades H.D.D (3.5 pulgadas) y SS (2.5 pulgadas) x 2 unidades de almacenamiento de espacio de montaje."
+                ],
+                [
+                    "Ponga las conexiones modernas al alcance de la mano con un panel de E/S superior que incluye un puerto USB 3.0, puerto tipo C, puerto USB 2.0 y una combinación de conector de audio/micrófono."
+                ],
+                [
+                    "Soporte de tarjeta madre: Mini-ITX, Micro ATX, ATX y E-ATX."
+                ]
+            ],
+            "marca":"ALSEYE",
+            "modelo":"Ai-Pro",
+            "cat_id": [2],
+            "categoria":"Case",
+            "compatibilidad":[
+                [
+                    "Mini-ITX"
+                ],
+                [
+                    "Micro ATX"
+                ],
+                [
+                    "ATX"
+                ],
+                [
+                    "E-ATX"
+                ]
+            ],
+            "color":"blanco",
+            "cristalLateral":"si",
+            "cristalFrontal":"no"
+        }
+    ]
